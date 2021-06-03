@@ -4,5 +4,5 @@ This lab worked with cloning cloud repos locally as well as using commands on th
 
 Deliverables for this lab included the following text:
 
-### .gitignore
-### lab-02-node.js
+  .gitignore
+  lab-02-node.js
